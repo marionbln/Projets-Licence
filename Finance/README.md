@@ -1,6 +1,6 @@
 # Présentation des modèles binomiaux pour la valorisation d’options
 
-Ce document présente les principaux modèles binomiaux abordés dans le cours "Principes de Valorisation" d’Olivier Drean :  
+Ce document présente les principaux modèles binomiaux abordés dans le cours "Principes de Valorisation" d’Olivier Drean à l'IMT Atlantique :  
 - le modèle de Cox–Ross–Rubinstein (CRR),  
 - le modèle de Jarrow–Rudd (JR),  
 - le modèle de Tian,  
@@ -137,4 +137,5 @@ Les quatre modèles appartiennent tous à la même famille des modèles binomiau
 - Tian, bien que théoriquement sophistiqué, peut être instable et ne garantit pas la convergence.
 
 Ce panorama permet de comprendre les enjeux liés au choix d’un modèle binomial avant implémentation, en particulier pour des questions de stabilité et de précision.
+
 
