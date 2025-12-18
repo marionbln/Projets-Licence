@@ -26,7 +26,3 @@ Une source ponctuelle au centre génère l’onde.
 
 
 
-
-## Résultat
-- **Système fermé** : ondes réfléchies, motifs stationnaires ou chaotiques.  
-- **Système ouvert** : fronts d’onde qui se dissipent sans retour.
